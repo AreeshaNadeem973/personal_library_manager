@@ -19,10 +19,10 @@ A simple command-line application to manage a personal library of books.
 
 ## Usage
 
-Run the application by executing the `main.py` file.
+Run the application by executing the `library_manager.py` file.
 
 ```bash
-python main.py
+python library_manager.py
 ```
 Follow the instructions inside the terminal to manage your library.
 
